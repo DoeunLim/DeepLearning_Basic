@@ -1,2 +1,5 @@
 # DeepLearning_Basic
-Deep Learning starting at the bottom
+#### Reference
+
+- Deep Learning from scratch,
+- DeepLearningZeroToAll(https://github.com/hunkim/DeepLearningZeroToAll)
